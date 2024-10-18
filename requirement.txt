@@ -1,9 +1,11 @@
 
-pystan==3.2.0
-httpstan==4.4.1
-prophet
+
+matplotlib==3.5.1
+pandas
 numpy
-protobuf
-streamlit
-pandas==1.3.5
+klib
+scikit-learn==1.0.1
+streamlit==1.3.0
+seaborn==0.11.1
+protobuf<=3.20.*
 
